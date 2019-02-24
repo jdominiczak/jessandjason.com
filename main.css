@@ -32,6 +32,7 @@ h1 {
 }
 h1 small {
   font-size: 0.3em;
+  letter-spacing: 0;
 }
 
 h2 {
