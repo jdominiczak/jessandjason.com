@@ -10,7 +10,8 @@ body {
   max-width: 800px;
   margin: 0 auto;
   text-align: center;
-  fill: #323250;
+  fill: #333333;
+  color: #333333;
 }
 
 .footer-container {
