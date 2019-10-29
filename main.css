@@ -210,12 +210,14 @@ h4 a:hover {
 @media screen and (max-width: 768px) {
   .imgContainer {
     float: none;
+    
   }
 }
 
 .imgContainer img {
   border-radius: 10px;
   max-width: 350px;
+  width: 100%;
 }
 
 .imgText {
