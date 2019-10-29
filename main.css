@@ -59,3 +59,16 @@ h5 {
   margin-block-start: 0.2em;
   margin-block-end: 0.2em;
 }
+
+.container {
+  display: flex;
+}
+.halfDiv {
+  width: 50%;
+  display: inline-block;
+}
+
+hr {
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
